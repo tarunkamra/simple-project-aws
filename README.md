@@ -7,3 +7,20 @@ very simple!
 
 ![AWS Architecture](aws.drawio.png)
 
+
+
+AWS Amplify
+
+just upload the index.html file to AWS amplify and it will deploy it to AWS. It's simple like that!
+
+
+in the index.html file there is an API Call which is set up by API Gateway
+
+
+
+
+Lambda 
+
+the function is just a way to use math function and it pushes the result to Dynamo db
+
+It is triggered by API which is ran through index.html file

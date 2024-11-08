@@ -5,7 +5,7 @@ AWS Amplify --> API Gateway --> Lambda --> Dynamo DB
 very simple!
 
 
-![AWS Architecture](aws.drawio.png)
+![AWS Architecture](images/aws.drawio.png)
 
 
 
@@ -24,3 +24,16 @@ Lambda
 the function is just a way to use math function and it pushes the result to Dynamo db
 
 It is triggered by API which is ran through index.html file
+
+
+Ampify 
+
+![AWS Amplify](images/Amplify.png)
+
+Final UI
+
+![UI](images/UI.png)
+
+Entry in Dynamo DB
+
+![DynamoDB](images/DynamoDB.png)

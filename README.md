@@ -34,6 +34,9 @@ Final UI
 
 ![UI](images/UI.png)
 
-Entry in Dynamo DB
+Entry in Dynamo DB - Results will be stored in dynamo db 
 
 ![DynamoDB](images/DynamoDB.png)
+
+Result as seen on UI
+![Result](images/result.png)
